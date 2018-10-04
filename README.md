@@ -58,9 +58,9 @@ Then click on **`Trust`** buton on the dialog, and that's it. Enjoy!
 
 
 [Cydia Impactor]: <http://www.cydiaimpactor.com>
-[download_jumper]: ./download_pogojumper.png
-[install_jumper]: ./install_ipa_to_impactor.png
-[signin_appleid]: ./signin_to_your_appleaccount.png
-[devicemanagement]: ./devicemanagement.png
-[device_appleid]: ./device_appleid.png
-[trust_app]: ./trust_app.png
+[download_jumper]: ./assets/download_pogojumper.png
+[install_jumper]: ./assets/install_ipa_to_impactor.png
+[signin_appleid]: ./assets/signin_to_your_appleaccount.png
+[devicemanagement]: ./assets/devicemanagement.png
+[device_appleid]: ./assets/device_appleid.png
+[trust_app]: ./assets/trust_app.png

@@ -11,5 +11,5 @@ Upon enabling, the joystick will shows up. Tada!
 To use the actual GPS again, you need to restart the application.
 
 
-[tap_to_enabled]: ./tap_to_enable.png
-[the_joystick]: ./the_joystick.png
+[tap_to_enabled]: ./assets/tap_to_enable.png
+[the_joystick]: ./assets/the_joystick.png
