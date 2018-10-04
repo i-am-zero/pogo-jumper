@@ -52,6 +52,7 @@ Then click on **`"Trust"`**
 
 Then click on **`Trust`** buton on the dialog, and that's it. Enjoy!
 
+[How to use the and play!](./HOWTO.md)
 
 **Disclaimer**: _Use this enhancement on your own accord and doing so we are not obliged on any means. Please use this for educational purposes only._
 

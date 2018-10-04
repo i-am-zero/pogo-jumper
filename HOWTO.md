@@ -4,10 +4,11 @@ Upon loading the game, you will notice a red button on the left side. To enable 
 
 ![tap_to_enabled]
 
-Upon enabling, the joystick will shows up.
+Upon enabling, the joystick will shows up. Tada!
 
 ![the_joystick]
 
+To use the actual GPS again, you need to restart the application.
 
 
 [tap_to_enabled]: ./tap_to_enable.png
